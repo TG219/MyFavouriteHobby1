@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background: linear-gradient(#0af5e5 0%,#7b15cf 100% );
+    background-repeat: no-repeat;
+    
+   
+}
+
+h1{
+    color: darkblue;
+    font-size: 40px;
+    
+    }
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+#bio{
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
